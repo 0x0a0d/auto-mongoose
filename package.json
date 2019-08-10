@@ -1,0 +1,21 @@
+{
+  "name": "auto-mongoose",
+  "version": "1.0.0",
+  "description": "mongoose auto reconnect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mongoose", "reconnect", "auto"],
+  "author": "0x0a0d",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/0x0a0d/auto-mongoose.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "mongodb-uri": "^0.9.7",
+    "mongoose": "^5.5.2"
+  }
+}
